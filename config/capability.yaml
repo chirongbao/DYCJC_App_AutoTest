@@ -1,0 +1,55 @@
+platformName: Android
+deviceName: 192.168.59.106:5555
+platformVersion: 7.1.1
+appPackage: cn.victorplus.car
+appActivity: cn.victorplus.car.base.SplashActivity
+appName: dyc.0428.apk
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: False
+automationName: uiautomator2
+ip: 127.0.0.1
+port: 4723
+
+jobNum: D00854
+phone: 7278
+Vernum: 111111
+#主贷人信息
+zhudainame: 时间
+zhudaiidcard: 110101199003077213
+zhudaiiphone: 13144444444
+certnum: 111111
+#配偶
+peiouname: 小黑龙
+peiouidcard: 11010119900307205X
+peiouphone: 15901764444
+#主贷人信息
+zhuDaiHuJiAddress: 主贷人户籍地址
+zhuDaiJuZhuAdress: 主贷人居住地址
+#主贷人单位名称
+zhuDaiDanWeiName: 北京一起吹牛有限责任公司
+#主贷人工作地址
+zhuDaiRenWorkPlace: 北京市朝阳区天安门工作地址
+#主贷人工作固话/手机
+zhuDaiRenworkPhone: 15911111111
+#紧急联系人一
+jinjilianxiren: 主贷人爸爸
+jinjilianxirenphone: 15922222222
+#紧急联系人二
+jinjilianxiren2: 主贷人妈妈
+jinjilianxirenphone2: 15933333333
+#紧急联系人三
+jinjilianxiren3: 主贷人朋友
+jinjilianxirenphone3: 15944444444
+#担保人
+danbaoname: 担保人
+danbaoIdcard: 11010119900307061X
+danbaoPhione: 15955555555
+danbaohujiAddress: 担保人户籍地址
+danbaomenpaiId: 担保人门牌号
+danbaoWorkName: 担保人现单位名称
+#卖家信息
+maijianame: 卖家
+maijiaIdcard: 340311199005160615
+#贷款金额
+daikuanMoney: 40000
